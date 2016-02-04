@@ -1,0 +1,3 @@
+# import random
+# name = input()
+# print(name + " "+str(random.randrange(6,15)))
