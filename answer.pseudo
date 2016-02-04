@@ -1,3 +1,12 @@
 # import random
-# name = input()
-# print(name + " "+str(random.randrange(6,15)))
+
+# def name_number(name):
+# 	print(name + " "+str(random.randrange(6,15)))
+
+# def main():
+# 	name_number(input())
+
+# if __name__ == '__main__':
+# 	main()
+
+
